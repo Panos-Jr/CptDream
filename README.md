@@ -1,4 +1,4 @@
-## The 'testing_services' Page -> **REPO**
+## The 'testing_services'
 ### **HOSTED** : using Netlify - linked to **[GitHub](https://github.com/Panos-Jr/testing_services)**. 
 ##### LINK : You will be redirected to this page.
 ### You have been given the privilege to ameliorate '[index.html](https://github.com/Panos-Jr/testing_services/blob/main/index.html)'  
