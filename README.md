@@ -31,8 +31,7 @@ Custom Damain: **NOT purchased**
 #### Disable 2-factor Authentication. (do this before using `git push`)
 #### Then, navigate to your browser, refresh your (copy) repository on GitHub (or press Ctrl + R OR Command + R). You should see your changes pushed to your repository on GitHub. Now, navigate to 'pull requests' and click on' "New Pull Request," (or you should see a shortcut). After that, specify your changes and create your request. A pull request is a way of requesting me to pull your replica of my repository and merge it with the main repository. (In other words, add your changes to my repository)
 
-### Join us : Discord : ** 
-https://discord.gg/2aXNjWh64A**
+### Join us : Discord : **https://discord.gg/2aXNjWh64A**
 
 
 
