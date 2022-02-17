@@ -1,8 +1,8 @@
-## The 'testing_services'
-### **HOSTED** : using Netlify - linked to **[GitHub](https://github.com/Panos-Jr/testing_services)**. 
+## The 'CptDream' WebPage
+### **HOSTED** : using Netlify - linked to **[GitHub](https://github.com/Panos-Jr/CptDream)**. 
 ##### LINK : You will be redirected to this page.
-### You have been given the privilege to ameliorate '[index.html](https://github.com/Panos-Jr/testing_services/blob/main/index.html)'  
-#### ***WEBSITE*** information -> Default Domain : '[testing-services.netlify.app](https://testing-services.netlify.app)' 
+### You have been given the privilege to ameliorate '[index.html](https://github.com/Panos-Jr/CptDream/blob/main/index.html)'  
+#### ***WEBSITE*** information -> Default Domain : '[cptdream.netlify.app](https://cptdream.netlify.app)' 
 Custom Damain: **NOT purchased**
 #### Any changes made on this repository (not replica's) will modify the website, directly 
 
